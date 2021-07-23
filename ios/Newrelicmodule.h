@@ -1,5 +1,6 @@
 #import <React/RCTBridgeModule.h>
-
-@interface Newrelicmodule : NSObject <RCTBridgeModule>
-
+#ifndef NewRelicModule_h
+#define NewRelicModule_h
+#endif /* NewRelicModule_h */
+@interface NewRelicModule : NSObject <RCTBridgeModule>
 @end

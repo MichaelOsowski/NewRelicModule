@@ -1,0 +1,17 @@
+{
+  "githubUrl": "https://github.com/MichaelOsowski/NewRelicModule",
+  "npmPkg": "NewRelicModule",
+  "nameOverride": "<PACKAGE DISPLAY NAME>",
+  "examples": ["https://github.com/newrelic-experimental/NewRelicReactNativeModule"],
+  "images": ["<PUBLIC URL TO RELATED IMAGE>"],
+  "ios": true,
+  "android": true,
+  "web": false,
+  "expo": false,
+  "windows": false,
+  "macos": false,
+  "tvos": false,
+  "unmaintained": false,
+  "dev": false,
+  "template": false
+}
